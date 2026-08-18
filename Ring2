@@ -1,1 +1,28 @@
-
+{
+  "name": "Anillo de Plata Matrimonio",
+  "symbol": "CERT",
+  "description": "Certificado digital inmutable de autenticidad emitido en CertChain.",
+  "image": "https://e7.pngegg.com/pngimages/448/9/png-clipart-wedding-ring-jewellery-silver-engagement-ring-ring-love-ring.png",
+  "external_url": "https://certchain.app",
+  "attributes": [
+    { "trait_type": "Categoría", "value": "Joyería" },
+    { "trait_type": "Número de Serie", "value": "PLT-Rj400" },
+    { "trait_type": "Año de Fabricación", "value": "2026" },
+    { "trait_type": "País de Origen", "value": "México" },
+    { "trait_type": "Valor Estimado (USD)", "value": "323" },
+    { "trait_type": "Edición / Tiraje", "value": "Pieza Única" },
+    { "trait_type": "Material Principal", "value": "Acero inoxidable 316L" },
+    { "trait_type": "Acabado", "value": "Pulido y satinado" },
+    { "trait_type": "Garantía", "value": "5 años" },
+    { "trait_type": "Peso", "value": "180g" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/imagen.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
