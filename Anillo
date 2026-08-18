@@ -1,0 +1,11 @@
+{
+     "name": "Anillo de Plata - CertChain",
+     "symbol": "CERT",
+     "description": "Certificado digital inmutable de autenticidad.",
+     "image": "https://raw.githubusercontent.com/[USUARIO]/[REPOSITORIO]/main/producto.jpg",
+     "attributes": [
+       { "trait_type": "Categoría", "value": "Joyería" },
+       { "trait_type": "Número de Serie", "value": "PNG-543" },
+       { "trait_type": "Año", "value": "2026" }
+     ]
+   }
