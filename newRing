@@ -2,7 +2,7 @@
   "name": "Anillo de Plata Matrimonio",
   "symbol": "CERT",
   "description": "Certificado digital inmutable de autenticidad emitido en CertChain.",
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHudk2caf0uUqmchTb41vgvo62E4CMRc1MIobDS7yBJw&s=10",
+  "image": "https://es.pngtree.com/freepng/gold-and-silver-diamond-engagement-rings-jewelry-wedding_23308397.html",
   "external_url": "https://certchain.app",
   "attributes": [
     { "trait_type": "Categoría", "value": "Joyería" },
@@ -19,7 +19,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5GeqAs8FV-E5MF_tuoenLtgOB8XxInSLf-A3HwC86w&s=10",
+        "uri": "https://raw.githubusercontent.com/aldairugalde754-dotcom/metadata/refs/heads/main/newRing",
         "type": "image/png"
       }
     ],
